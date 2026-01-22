@@ -1,0 +1,7 @@
+Pending count of alarm batches 
+
+Complex:
+
+D1-CREDW => RC & RDC
+
+Last ended time of alarm and cre_jobs
