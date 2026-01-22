@@ -1,4 +1,5 @@
 Pending count of alarm batches 
+RCDC count
 
 Complex:
 
